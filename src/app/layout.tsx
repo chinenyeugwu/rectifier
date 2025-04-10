@@ -15,8 +15,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Demo",
-  description: "For Demonstration",
+  title: "CryptoFix | Recover & Secure Your Crypto Wallet",
+  description: "CryptoFix is your trusted solution for fixing, recovering, and securing cryptocurrency wallets. Fast, secure, and blockchain expert-backed support.",
 };
 
 export default function RootLayout({
